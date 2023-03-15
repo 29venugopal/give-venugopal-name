@@ -1,0 +1,20 @@
+{
+  "name": "give-venugopal-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29venugopal/give-venugopal-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29venugopal/give-venugopal-name/issues"
+  },
+  "homepage": "https://github.com/29venugopal/give-venugopal-name#readme"
+}
